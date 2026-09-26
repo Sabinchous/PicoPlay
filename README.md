@@ -1,5 +1,7 @@
 # PicoPlay — компактный контроллер Яндекс Музыки для Windows
 
+<img width="1671" height="941" alt="PicoPlay" src="https://github.com/user-attachments/assets/e1399565-f85e-49d0-b5a2-aeb59d0827de" />
+
 PicoPlay — небольшое плавающее окно для управления уже запущенной Яндекс Музыкой. Приложение использует медиасессию Windows и не требует входа в аккаунт Яндекса.
 
 ## Возможности
